@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aseemsai
-- 👀 I’m interested in all things web development. I am currently working as a Front End Developer.
-- 🌱 I’m currently learning React and working on expanding my know-how of the library.
+- 👀 I’m interested in all things web development. I have 4+ years of experience working as a Front End Developer.
+- 🌱 I’m currently learning React, Next.JS and working on expanding my know-how of the library.
 - 💞️ I’m looking to collaborate on component building projects for web applications.
 - 📫 How to reach me - aseemsai07@gmail.com
 
